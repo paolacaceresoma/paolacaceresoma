@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @paolacaceresoma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m Paola.
+- 👀 I’m interested in digital solutions.
+- 🌱 I’m currently a Full Stack Developer in the making
+- 💞️ I’m looking to collaborate on digital technologies for a greener future.
+- 📫 How to reach me: paolacaceresoma@gmail.com - IG: @helloiampaola
 
 <!---
 paolacaceresoma/paolacaceresoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
